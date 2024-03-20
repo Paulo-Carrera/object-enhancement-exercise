@@ -37,9 +37,7 @@ var favoriteNumber = 42;
 //ES2015 VERSION :
 
 let instructor = {
-    firstName : '',
-    lastName : '',
-    favoriteNumber : '',
+   
 }
 
 instructor['firstName'] = 'Brad';
